@@ -1,0 +1,3 @@
+15:03:59 INFO  com.cts.logging.DifferentAppendersExample - User logged in successfully.
+15:03:59 WARN  com.cts.logging.DifferentAppendersExample - Password will expire in 5 days.
+15:03:59 ERROR com.cts.logging.DifferentAppendersExample - Unable to connect to the database.
